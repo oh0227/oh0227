@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%"/>
+<img width="1774" height="887" alt="프로필 배너" src="https://github.com/user-attachments/assets/42841ccb-5335-4937-a372-30a01b201057" />
 
 </div>
 
@@ -17,28 +17,8 @@ Figma를 활용한 UI/UX 기획부터 프론트엔드 구현, 백엔드 API 설�
 <br>
 
 ## Tech Stack
+<img width="1717" height="916" alt="기술 스택" src="https://github.com/user-attachments/assets/0b4e753a-5497-46fc-9ba5-905cc78074d9" />
 
-**Frontend**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind&theme=light" />
-</p>
-
-**Backend**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,py,java,spring,mysql&theme=light" />
-</p>
-
-**AI / ML**
-<p align="center">
-  <sub>Claude Code · LightGBM · Prophet · SHAP</sub>
-</p>
-
-**Design & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,git,notion&theme=light" />
-</p>
-
-<br>
 
 ## GitHub Stats
 
@@ -52,4 +32,4 @@ Figma를 활용한 UI/UX 기획부터 프론트엔드 구현, 백엔드 API 설�
 
 <div align="center">
 <sub>정보처리기사 실기 준비 중 · TOEIC Speaking 예정 · Uijeongbu, Korea</sub>
-</div>![Uploading banner.svg…]()
+</div>
