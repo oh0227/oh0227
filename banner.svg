@@ -1,0 +1,28 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f1123"/>
+      <stop offset="100%" stop-color="#1b2140"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="14" fill="url(#bg)"/>
+
+  <text x="600" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff">Jinwoo Oh</text>
+  <text x="600" y="145" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#9aa4c7">Full Stack Developer · AI-Assisted Systems</text>
+
+  <!-- tag pills -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">
+    <rect x="336" y="188" width="108" height="30" rx="15" fill="none" stroke="#3d7bff" stroke-width="1"/>
+    <text x="390" y="207" text-anchor="middle" fill="#7fa6ff">Full Stack</text>
+
+    <rect x="456" y="188" width="192" height="30" rx="15" fill="none" stroke="#a06bff" stroke-width="1"/>
+    <text x="552" y="207" text-anchor="middle" fill="#c1a3ff">AI-Assisted Dev</text>
+
+    <rect x="660" y="188" width="140" height="30" rx="15" fill="none" stroke="#2ec4b6" stroke-width="1"/>
+    <text x="730" y="207" text-anchor="middle" fill="#7fe3da">User Empathy</text>
+
+    <rect x="812" y="188" width="100" height="30" rx="15" fill="none" stroke="#ff8a5c" stroke-width="1"/>
+    <text x="862" y="207" text-anchor="middle" fill="#ffb28f">Fintech</text>
+  </g>
+</svg>
